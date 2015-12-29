@@ -35,6 +35,7 @@ src2dest = {
     'inputrc': '.inputrc',
     'less': '.less',
     'lesskey': '.lesskey',
+    'tmux.conf': '.tmux.conf',
     'vim': '.vim',
     'vimrc': '.vimrc',
     'ipython_config.py': '.config/ipython/profile_default/ipython_config.py',
